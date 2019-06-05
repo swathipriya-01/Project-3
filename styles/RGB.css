@@ -1,0 +1,30 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: white;
+}
+
+.square{
+	width: 30%;
+	background-color: brown;
+	padding-top: 30%;
+	float: left;
+	margin: 1.6%;
+}
+
+#container {
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+#displayRow{
+	height: 30px;
+	text-align: center;
+	background-color: white;
+}
+
+.selected{
+	background-color: blue;
+}
